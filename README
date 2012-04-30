@@ -1,0 +1,2 @@
+this is a simple websocket demo write with php
+you can run this demo by running websocket server with command 'php -f server.php' and then visit the client.html in browser(the browser must support websocket, ex:chrome, ie10)
